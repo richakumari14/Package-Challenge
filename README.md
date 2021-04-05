@@ -52,7 +52,7 @@ numbers are separated by comma). E.g.
  
 The command downloads libraries(if required, only first time), builds app. If everything goes well, last line in the console will be
 
-![Alt text](static/buildSuccess.PNG?raw=true "Optional Title")  
+![Alt text](static/buildSuccess.png?raw=true "Optional Title")  
 
 I am passing filePath as <B>Command Line Arguments</B>  
 Please follow below steps to run the application.  
