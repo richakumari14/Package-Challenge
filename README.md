@@ -69,7 +69,7 @@ In the pop up window, click on the Arguments tab. Then provide the command line 
 
 <I>Output</I> will be printed on console.  
 
-![Alt text](static/output.png?raw=true "Optional Title")  
+![Alt text](static/output.PNG?raw=true "Optional Title")  
 
 **Approach/Strategy:**  
 •	Used 0-1 Knapsack algorithm  
