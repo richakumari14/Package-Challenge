@@ -52,7 +52,7 @@ numbers are separated by comma). E.g.
  
 The command downloads libraries(if required, only first time), builds app. If everything goes well, last line in the console will be
 
-![Alt text](static/buildSuccess.png?raw=true "Optional Title")  
+![Alt text](static/buildSuccess.PNG?raw=true "Optional Title")  
 
 I am passing filePath as <B>Command Line Arguments</B>  
 Please follow below steps to run the application.  
@@ -60,12 +60,12 @@ Please follow below steps to run the application.
 ### Step 1: Open the Class Run Configurations Settings  
 From the class editor, right click <B>App.java</B> and chose "Run As" -> "Run Configurations...".   
 
- ![Alt text](static/firstStep.png?raw=true "Optional Title") 
+ ![Alt text](static/firstStep.PNG?raw=true "Optional Title") 
 
 ### Step 2: Specify the Program Arguments which in this case is absolute file path in the Arguments Tab  
 In the pop up window, click on the Arguments tab. Then provide the command line arguments value in the "Program Arguments" text box.  
 
-![Alt text](static/runSteps.png?raw=true "Optional Title")  
+![Alt text](static/runSteps.PNG?raw=true "Optional Title")  
 
 <I>Output</I> will be printed on console.  
 
